@@ -38,8 +38,8 @@
 
 **五、后台博文编辑界面以及Github账号**
 ![image](https://img2024.cnblogs.com/blog/3698730/202509/3698730-20250908190533652-1978165190.png)
-Github账号：
-
+**Github账号**：https://github.com/Mimipap111
+![image](https://img2024.cnblogs.com/blog/3698730/202509/3698730-20250908191630909-850468755.png)
 
 
 
